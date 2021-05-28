@@ -19,5 +19,9 @@ User Data API is a demo app design to fetch data through API call. App is create
 - Data fetched using API (link is given below) is displayed to user using UI designed with the help of storyboard.
 - Project is fully functional, free and ready to use.
 
-## API caller link
+## API used
 - https://gorest.co.in/public-api/users
+
+## Application ScreenShot
+
+[![HomePage.png](https://i.postimg.cc/pTtshmjs/HomePage.png)](https://postimg.cc/t1238C26)
