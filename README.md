@@ -24,4 +24,3 @@ User Data API is a demo app design to fetch data through API call. App is create
 
 ## Application ScreenShot
 
-[![HomePage.png](https://i.postimg.cc/pTtshmjs/HomePage.png)](https://postimg.cc/t1238C26)
